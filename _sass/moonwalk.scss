@@ -1,17 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@400;700&display=swap');
 
 html { height: 100%; }
 
 body {
-  font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
+  font-family:  "Oxanium", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
   line-height: 2;
   margin: 0;
   min-height: 100%;
 }
 pre, code {
-  font-family: "Roboto Mono", "Courier New", monospace;
+  font-family: "Indie Flower", "Courier New", monospace;
   font-size: 0.9rem;
 }
 
@@ -65,29 +66,29 @@ img {
 }
 @mixin light-appearance {
   html, body {
-      --bg: #FFF;
-      --bg-secondary: #f3f4f6;
-      --headings: #1e293b;
-      --text: #374151;
+      --bg: #FFF9EC;
+      --bg-secondary: #C4C2C2;
+      --headings: #1C2841;
+      --text: #1C2841;
       --text-secondary: #6b7280;
-      --links: #6366f1;
-      --highlight: #FFECB2; // light yellow
-      --code-text: #9D174D;
-      --share-text: #999;
+      --links: #67A2CC;
+      --highlight: #67A2CC; // light yellow
+      --code-text: #1C2841;
+      --share-text: #C4C2C2;
   }
 }
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #74c0fc;
-      --links: #91A7FF;
-      --highlight: #41C7C7;
-      --bg: #1f242A;
-      --bg-secondary: #323945;
-      --text: #adb5bd;
+      --headings: #FFCD30;
+      --links: #67A2CC;
+      --highlight: #67A2CC;
+      --bg: #1C2840;
+      --bg-secondary: #0f1623;
+      --text: #FFF9EC;
       --text-secondary: #9CA3AF;
-      --code-text: #91A7FF;
-      --share-text: #C4C4C4;
+      --code-text: #FFCD30;
+      --share-text: #9CA3AF;
   };
 }
 
@@ -137,7 +138,7 @@ html.transition *:after {
   color: var(--text);
   background-color: transparent;
   padding: 4px;
-  cursor: pointer;
+  cursor: poOxanium;
   margin: 1em;
   position: fixed;
   right: 0;
@@ -154,7 +155,7 @@ html.transition *:after {
   outline: none;
 }
 .dashed {
-  border-top: 1px var(--text) dashed;
+  border-top: 1px var(--text) solid;
   margin: 0.5em 0;
 }
 mark {
@@ -168,10 +169,10 @@ mark {
   color: var(--text-secondary);
   margin-top: 1rem;
   font-size: 0.7em;
-  font-family: "Roboto Mono", "Courier New", monospace;
+  font-family: "Indie FlowerCourier New", monospace;
 }
 .home-date {
-  font-family: "Roboto Mono", "Courier New", monospace;
+  font-family: "Indie Flower", "Courier New", monospace;
 }
 .post-list-item a {
   text-decoration: none;
@@ -210,7 +211,7 @@ p code, li code {
   }
 }
 .tag {
-  font-family: "Roboto Mono", "Courier New", monospace;
+  font-family: "Indie Flower", "Courier New", monospace;
   color: var(--text-secondary);
   padding: 0.4em 1em;
   margin-right: 0.5em;
