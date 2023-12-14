@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@400;700&display=swap');
 
@@ -12,7 +12,7 @@ body {
   min-height: 100%;
 }
 pre, code {
-  font-family: "Indie Flower", "Courier New", monospace;
+  font-family: "Caveat", "Courier New", monospace;
   font-size: 0.9rem;
 }
 
@@ -169,10 +169,10 @@ mark {
   color: var(--text-secondary);
   margin-top: 1rem;
   font-size: 0.7em;
-  font-family: "Indie FlowerCourier New", monospace;
+  font-family: "CaveatCourier New", monospace;
 }
 .home-date {
-  font-family: "Indie Flower", "Courier New", monospace;
+  font-family: "Caveat", "Courier New", monospace;
 }
 .post-list-item a {
   text-decoration: none;
@@ -211,7 +211,7 @@ p code, li code {
   }
 }
 .tag {
-  font-family: "Indie Flower", "Courier New", monospace;
+  font-family: "Caveat", "Courier New", monospace;
   color: var(--text-secondary);
   padding: 0.4em 1em;
   margin-right: 0.5em;
