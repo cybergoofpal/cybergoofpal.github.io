@@ -5,15 +5,17 @@ navbar_entries:
   - title: Archive
     url: blog
 
-  - title: BCB
-    url: https://www.sbnation.com/users/Cyber%20Goofpal
 
 project_entries:
   - title: Project 1
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-old_project_entries: site.posts
+old_project_entries:
+  - title: Soopr
+    url: cyber-goofpal-presents-the-2023-joe-winklesas-award-winner
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    image: images/goofpal.jpg
 
 
 footer_entries:
