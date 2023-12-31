@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Cyber Goofpall
+image: images/square.jpg
 tags: []
 ---
 

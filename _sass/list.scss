@@ -17,12 +17,19 @@ ul.horizontal-list {
 
 }
 
+.fit-pic{
+  float:left;
+  width: 40%;
+  height: auto;
+  padding-right: 2em;
+}
+
 .card {
   padding: 1em;
   border: 1px var(--text) solid;
-  width: 11em;
+  width: 100%;
   height: auto;
-  text-align: center;
+  text-align: left;
   font-size: 1em;
   align-items: center;
   background-color: var(--bg-secondary);

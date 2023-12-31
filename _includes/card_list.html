@@ -1,8 +1,11 @@
 <ul class="horizontal-list">
-  {% for item in include.collection %}
+  {% for item in include.collection limit:1 %}
 
     <li class="card">
       <a href="{{ item.url }}">
+        {% if item.image != false %}
+          <img src="{{ item.image }}" class="fit-pic"/>
+        {% endif %}
         <span class="header">
           {{ item.title }}
 
@@ -14,9 +17,9 @@
 
         <hr />
 
-        {% if item.desc != false %}
+        {% if item.content != false %}
         <p class="body">
-          {{ item.desc }}
+          {{ item.content | truncate : 150 }}
         </p>
         {% endif %}
       </a>
