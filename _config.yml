@@ -34,7 +34,7 @@ theme_config:
   # options for "home" page
   home:
     title_old_projects:
-    title_projects: Portfolio
+    title_projects:
     title_misc_list: Details
     title_blog: Recent Posts
 

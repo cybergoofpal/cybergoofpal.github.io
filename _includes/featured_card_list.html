@@ -1,0 +1,29 @@
+<ul class="horizontal-list">
+  {% for item in include.collection limit:1 %}
+
+    <li class="featured_card">
+      <a href="{{ item.url }}">
+        {% if item.image != false %}
+          <img src="{{ item.image }}" class="fit-pic"/>
+        {% endif %}
+        <span class="header">
+          {{ item.title }}
+
+          {% if item.highlight %}
+            <mark>{{ item.highlight }}</mark>
+          {% endif %}
+
+        </span>
+
+        <hr />
+
+        {% if item.content != false %}
+        <p class="body">
+          {{ item.content | truncate : 150 }}
+        </p>
+        {% endif %}
+      </a>
+    </li>
+
+  {% endfor %}
+</ul>
