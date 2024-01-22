@@ -36,6 +36,7 @@ Sidebar: (I wonder if the Daft Punk guys had a problem getting through TSA with 
 **Daft Punk guy**: These aren’t the droids you’re looking for.
 
 **TSA Agent**: These aren’t the droids we are looking for, move along. 
+
 During this time the vaccinations were all the rage, and in a press conference Aaron was asked if he was vaccinated, to which he replied that he had indeed been immunized.  Apparently, Aaron thought that the NFL was concerned that he may get the mumps.  
 
 It later came out that Aaron was against the vaccine and was doing his own homeopathic cures such as injecting bleach and chewing mushrooms in the dark.  I also neglected to mention that Aaron is super-duper smart.  He was accepted at the prestigious Butte College and at one time hosted Jeopardy! where the host needs to know all of the answers. Sidebar: (I’m told that actually the answers are all on those little index cards they have.)
