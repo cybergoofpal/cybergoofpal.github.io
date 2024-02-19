@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Cyber Goofpall
+author: Cyber Goofpal
 tags: []
 ---
 Honk, honk! Thank you all for submitting your questions for my off-season mailbag. They were adequately weird. Let's get started.

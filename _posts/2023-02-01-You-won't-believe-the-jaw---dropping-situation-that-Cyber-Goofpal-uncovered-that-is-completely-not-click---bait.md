@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Cyber Goofpall
+author: Cyber Goofpal
 tags: [Cyber Goofpal, Brent Suter, Jandel Gustave, Colorado, The Revisionist, Sandy Tolan, dolphin, Ronald McDonald, Trevor Richards Just for Men, Gritty, The Hamburgular, Matt F'ing Bush, Vessel of Love, Breaking Bad, urinary incontenance, online baccarat, Larry Hisle, Rollie Fingers, Scrubs,Rowdy, ridiculous trade proposals, Mayor McCheese , Brewman0732, Kris Bryant giving Rowdy a rest, run on sentences, Taylor Bolden, leche010, Tyler Durden, Whatzit, Your Majesty, Tide Pods, Daniel Norris, Bernie Brewer, Rosie O'Donnell, Barrellman criminally insane, clown college, Summa Cum Laughy, Atari 2600, servos, Ohtani, Judge, Trout, High Heat 19, That Reddit guy, The Incredibles, Arbor Joe, MrLeam. broken kneecaps, reusable cups, Chi Chi Gonzalez, potlicker, Ben Affleck, Disco Demolition Night, Unpaid comic relief]
 ---
 

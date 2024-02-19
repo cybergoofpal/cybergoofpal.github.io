@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Cyber Goofpall
+author: Cyber Goofpal
 tags: [World Series, Mets]
 ---
 
