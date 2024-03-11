@@ -27,7 +27,7 @@ It’s with this information that I ask you to predict this year’s winner. I c
 
 I’m going to go with a dark horse this year: Janson Junk.
 
-All correct answers get a platinum membership at https://cybergoofpal.fun/ your source for all things nonsense. You should check it out. It has fewer articles than BCB and fewer comments than Brewer Fanatic, really the total package. Plus it includes non-baseball articles like this: https://cybergoofpal.fun/cyber-goofpal-reviews-oppenheimer
+All correct answers get a platinum membership at [cybergoofpal.fun](https://cybergoofpal.fun/), your source for all things nonsense. You should check it out. It has fewer articles than BCB and fewer comments than Brewer Fanatic, really the total package. Plus it includes non-baseball articles [like this](https://cybergoofpal.fun/cyber-goofpal-reviews-oppenheimer). 
 
 Yours Honkily,
 
