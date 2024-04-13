@@ -27,3 +27,5 @@ When Bella takes a break from honking, she sees the world isn’t that great of 
 Eventually Bella’s actual first husband (before she threw herself off the bridge and changed personalities by getting a brain transplant from her unborn child (keep up!)) Alfie, finds her and is a total jag-bag. After she throws a sedative in his face that he demanded she drink at gunpoint, he shoots himself in the foot and passes out.
 
 By this point Dr. God is dead, but Bella has gotten so smart she is able to do the brain-transplanty thing and switches Alfie’s brain with that of a goat, and as they say, everyone lives happily ever after. 
+
+If this sounds like a quasi-pornographic acid trip captured in film, that’s a bingo! This is the type of movie I can’t imagine watching more than once (or with my parents if I’m Emma Stone), but I can see why it was nominated, and why she won Best Actress. I give it 4 honks (out of 5) 
